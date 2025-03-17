@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Omkar Tupe
 - 👀 I’m interested in Application of AI
 - 🌱 I’m currently learning application of stastical methods
-- 💞️ I’m looking to collaborate on Computer Vision Projects
+- 💞️ I’m looking to collaborate on Computer Vision and LLM Projects
 - 📫 How to reach me omkartupe84@gmail.com
 
 <!---
